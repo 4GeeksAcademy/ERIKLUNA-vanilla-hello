@@ -44,5 +44,4 @@ window.onload = function() {
       aleatorioWhen;
   
     return excuse;
-  }
-  
+  };
