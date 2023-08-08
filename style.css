@@ -3,14 +3,28 @@
     padding: 0;
     box-sizing: border-box;
     
-    }
     body {
-        display: flex; 
-        justify-content: center; 
-        align-items: center;
-    
+      display: flex; 
+      justify-content: center; 
+      align-items: center;
+  
+  }
+  #id p {
+      color: rgb(65, 2, 2);
+      font-size: 18px;
+      line-height: 1.5;
+      text-align: center;
     }
-    
+  .seccion {
+      width: 300px;
+      border: 2px solid black;
+      border-radius: 8px; 
+      align-items: center;
+      display: flex; 
+      justify-content: center; 
+      
+  }
+  
     
         
     
